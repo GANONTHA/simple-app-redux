@@ -1,0 +1,32 @@
+Project 
+
+Title: Blog posts
+
+Descitpion: The web site is a blog posts. Each posts has an image and text content. The viewer can read, share and like the post. In addition to the the latter actions, the admin can delete and update a post.
+
+Technlogies: 
+
+1. Frontend
+- React: UI 
+- Redux: state management
+- React-router: for navigation between screens
+- fetch api: to fetch data from api endpoints 
+
+
+2. Backend. 
+1. JSON server 
+2. REST api
+
+3. Testing
+- Jest
+- React testing Library
+
+Features.
+
+- searching for posts with keywords
+- view latest posts to the sides
+- login or logout
+
+Development process
+
+We will use Test Driven Development (TDD) in this project. 
