@@ -14,8 +14,8 @@ Technlogies:
 
 
 2. Backend. 
-1. JSON server 
-2. REST api
+1. JSON placeholder 
+2. REST api with axios
 
 3. Testing
 - Jest

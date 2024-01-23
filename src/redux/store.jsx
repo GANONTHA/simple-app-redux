@@ -1,7 +1,8 @@
-import React from "react";
+import { configureStore } from "@reduxjs/toolkit";
+import postReducer from "./postSlice";
 
-const store = () => {
-  return <div>stoer goes here</div>;
-};
-
-export default store;
+export const store = configureStore({
+  reducer: {
+    post: postReducer,
+  },
+});
